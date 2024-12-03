@@ -43,4 +43,4 @@ java tutorial
    codes/java-lang/Infrared_Motion_Sensor.rst
    codes/java-lang/Ultrasonic_Ranging.rst
    codes/java-lang/Attitude_Sensor_MPU6050.rst
-   codes/common/WhatsNext.rst
+   codes/java-lang/WhatsNext.rst
