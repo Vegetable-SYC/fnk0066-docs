@@ -8,14 +8,14 @@ C language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/c_preface.rst
+   codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/c_preparation.rst
+   codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:

@@ -7,13 +7,13 @@ Python language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/python_preface.rst
+   codes/preface/python_preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/python_preparation.rst
+   codes/preface/python_preparation.rst
 
 
 .. toctree::

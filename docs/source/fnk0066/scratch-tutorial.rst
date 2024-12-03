@@ -7,7 +7,7 @@ Scratch language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/scratch_preface.rst
+   codes/preface/scratch_preface.rst
 
 .. toctree::
    :titlesonly: 

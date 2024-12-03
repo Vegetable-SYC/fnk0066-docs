@@ -6,7 +6,7 @@ Processing (java language) tutorial
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/processing_preparation.rst
+   codes/preface/processing_preparation.rst
 
 .. toctree::
    :numbered:
