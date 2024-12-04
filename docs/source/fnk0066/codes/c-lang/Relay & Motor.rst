@@ -51,7 +51,7 @@ In this project, we will use a Push Button Switch indirectly to control the DC M
 .. |DC_Motor_Module| image:: ../_static/imgs/DC_Motor_Module.png
     :width: 50%
 .. |Diode| image:: ../_static/imgs/Diode.png
-    :width: 10%
+    :width: 15%
 .. |Relay| image:: ../_static/imgs/Relay.png
     :width: 70%
 .. |red-led| image:: ../_static/imgs/red-led.png
