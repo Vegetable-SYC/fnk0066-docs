@@ -35,7 +35,7 @@ Component List
 .. |Hall_Sensor_1| image:: ../_static/imgs/Hall_Sensor_1.png
     :width: 40%
 .. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 20%
+    :width: 30%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
     :width: 15%
 .. |Speaker| image:: ../_static/imgs/Speaker.png
@@ -102,8 +102,6 @@ Circuit
     
     :red:`Please check the sequence of your Hall sensor and select the appropriate wiring to avoid permanent damage to your raspberry PI.`
 
-
-
 Code
 ================================================================
 
@@ -164,11 +162,11 @@ Component List
 +--------------------------------------------------+-------------+-----------------------------------+
 | Hall sensor x1                                   | LED x1      | NPN-transistor                    |
 |                                                  |             |                                   |
-|  |Hall_Sensor| :xx-large:`or` |Hall_Sensor_1|    |  |red-led|  |  |NPN-transistor|                 |                           
+|  |Hall_Sensor| :xx-large:`or` |Hall_Sensor_1|    |  |red-led1| |  |NPN-transistor|                 |                           
 +-----------------------+--------------------------+-------------+----------+------------------------+
 | Speaker x1            | Active buzzer x1         | Resistor 220Ω x1       | Resistor 1kΩ x1        |
 |                       |                          |                        |                        |
-|  |Speaker|            |  |Active-buzzer|         |  |res-220R|            |  |Resistor-1kΩ|        |                           
+|  |Speaker1|           |  |Active-buzzer|         |  |res-220R1|           |  |Resistor-1kΩ|        |                           
 +-----------------------+--------------------------+------------------------+------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
@@ -176,18 +174,18 @@ Component List
     :width: 30%
 .. |Hall_Sensor_1| image:: ../_static/imgs/Hall_Sensor_1.png
     :width: 40%
-.. |red-led| image:: ../_static/imgs/red-led.png
+.. |red-led1| image:: ../_static/imgs/red-led.png
     :width: 50%
-.. |res-220R| image:: ../_static/imgs/res-220R.png
+.. |res-220R1| image:: ../_static/imgs/res-220R.png
     :width: 25%
-.. |Speaker| image:: ../_static/imgs/Speaker.png
+.. |Speaker1| image:: ../_static/imgs/Speaker.png
     :width: 60%
 .. |Active-buzzer| image:: ../_static/imgs/Active-buzzer.png
     :width: 60%
 .. |NPN-transistor| image:: ../_static/imgs/NPN-transistor.png
 .. |Resistor-1kΩ| image:: ../_static/imgs/Resistor-1kΩ.png
     :width: 28%
-
+    
 :red:`For the above two hall sensors, their difference is only the pin sequence is different, please get the Hall sensor, check its sequence, change the corresponding wiring, so as not to cause permanent damage to your raspberry PI.`
 
 Circuit

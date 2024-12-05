@@ -22,12 +22,12 @@ Component List
 +--------------------------------------------------+-------------------------------------------------+
 |Rotary encoder x1                                                                                   |
 |                                                                                                    |
-|  |Rotary_encoder|                                                                                  |
+|  |Rotary_encoder1|                                                                                 |
 +----------------------------------------------------------------------------------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
-.. |Rotary_encoder| image:: ../_static/imgs/Rotary_encoder.png
-    :width: 40%
+.. |Rotary_encoder1| image:: ../_static/imgs/Rotary_encoder.png
+    :width: 20%
 
 Component knowledge
 ================================================================
@@ -43,6 +43,7 @@ The working principle of the encoder and the schematic diagram of the output wav
     :align: center
 
 A rotary encoder gives two-phase square waves, which are 90° out of phase, commonly referred to as A channel and B channel. One of the channels gives the information related to the rotation speed. The information of the rotation direction is obtained by sequentially comparing the signals of the two channels. There is also a special signal called Z or zero channel, which gives the absolute zero position of the encoder. This signal is a square wave that coincides with the center line of the A channel square wave.
+
 The following is the internal cross-sectional structure diagram of the encoder:
 
 .. image:: ../_static/imgs/Rotary_encoder_Knowledge_1.png
@@ -114,8 +115,6 @@ sw.when_pressed associates the SW signal pin of the rotary encoder with sensorEv
     :linenos: 
     :language: python
     :lines: 40-47
-
-
 
 Project Rotary Encoder
 ****************************************************************

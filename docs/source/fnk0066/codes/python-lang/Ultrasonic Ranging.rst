@@ -28,7 +28,7 @@ Component List
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Ultrasonic_Module| image:: ../_static/imgs/Ultrasonic_Module.png
 .. |res-1K-hori| image:: ../_static/imgs/res-1K-hori.png
-      :width: 20%
+      :width: 65%
 
 Component Knowledge
 ================================================================

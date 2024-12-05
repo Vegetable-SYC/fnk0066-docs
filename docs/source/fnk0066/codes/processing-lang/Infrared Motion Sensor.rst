@@ -66,10 +66,6 @@ We can regard this sensor as a simple inductive switch when in use.
 Circuit
 ================================================================
 
-.. table:: 
-    :width: 100%
-    :class: product-table
-
 +-------------------------------------------------------------------------------------------------+
 |   Schematic diagram                                                                             |
 |                                                                                                 |

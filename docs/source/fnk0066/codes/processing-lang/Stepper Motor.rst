@@ -99,6 +99,7 @@ Sketch 16.1.1 SteppingMotor
 ----------------------------------------------------------------
 
 First observe the result after running the sketch, and then learn about the code in detail.
+
 1.	Use Processing to open the file Sketch_16_1_1_SteppingMotor.
 
 .. code-block:: console    

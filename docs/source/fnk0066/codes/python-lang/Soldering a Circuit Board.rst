@@ -7,7 +7,7 @@ From previous chapters, we have learned about electronic circuits and components
 
 To finish this chapter, you need to prepare the necessary soldering equipment, including an electric soldering iron (or soldering pencil) and solder. We have already prepared the Perfboard for you. 
 
-.. catuion::
+.. note:: 
 
     :red:`Please use extreme caution and attention to safety when you operate soldering tools used in these projects.`
 

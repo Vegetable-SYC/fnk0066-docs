@@ -51,7 +51,7 @@ In this project, we will use a Push Button Switch indirectly to control the DC M
 .. |DC_Motor_Module| image:: ../_static/imgs/DC_Motor_Module.png
     :width: 50%
 .. |Diode| image:: ../_static/imgs/Diode.png
-    :width: 10%
+    :width: 15%
 .. |Relay| image:: ../_static/imgs/Relay.png
     :width: 70%
 .. |red-led| image:: ../_static/imgs/red-led.png
@@ -64,6 +64,7 @@ Relay
 ----------------------------------------------------------------
 
 Relays are a type of Switch that open and close circuits electromechanically or electronically. Relays control one electrical circuit by opening and closing contacts in another circuit using an electromagnet to initiate the Switch action. When the electromagnet is energized (powered), it will attract internal contacts completing a circuit, which act as a Switch. Many times Relays are used to allow a low powered circuit (and a small low amperage switch) to safely turn ON a larger more powerful circuit. They are commonly found in automobiles, especially from the ignition to the starter motor.
+
 The following is a basic diagram of a common Relay and the image and circuit symbol diagram of the 5V relay used in this project:
 
 .. image:: ../_static/imgs/Relay-knowledge.png
@@ -75,6 +76,7 @@ Inductor
 ----------------------------------------------------------------
 
 The symbol of Inductance is “L” and the unit of inductance is the “Henry” (H). Here is an example of how this can be encountered: 1H=1000mH, 1mH=1000μH.
+
 An Inductor is a passive device that stores energy in its Magnetic Field and returns energy to the circuit whenever required. An Inductor is formed by a Cylindrical Core with many Turns of conducting wire (usually copper wire). Inductors will hinder the changing current passing through it. When the current passing through the Inductor increases, it will attempt to hinder the increasing movement of current; and when the current passing through the inductor decreases, it will attempt to hinder the decreasing movement of current. So the current passing through an Inductor is not transient.
 
 .. image:: ../_static/imgs/Inductor.png

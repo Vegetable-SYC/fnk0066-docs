@@ -47,11 +47,6 @@ We will use a 50Hz PWM signal with a duty cycle in a certain range to drive the 
     
     the lasting time of high level corresponding to the servo angle is absolute instead of accumulating. For example, the high level time lasting for 0.5ms correspond to the 0 degree of the servo. If the high level time lasts for another 1ms, the servo rotates to 45 degrees.
 
-.. table:: 
-    :width: 100%
-    :widths: 50 50
-    :align: center
-
 ================  ================
  High level time  Servo angle
 ================  ================
@@ -222,5 +217,4 @@ The following values, and the corresponding Factory and Pin classes are listed i
      - gpiozero.pins.native.NativeFactory
      - gpiozero.pins.native.NativePin
     
-See Changing the pin factory for further information:
-https://gpiozero.readthedocs.io/en/stable/api_pins.html#changing-pin-factory
+See Changing the pin factory for further information: https://gpiozero.readthedocs.io/en/stable/api_pins.html#changing-pin-factory

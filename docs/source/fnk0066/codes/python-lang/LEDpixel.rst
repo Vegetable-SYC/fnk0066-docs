@@ -31,7 +31,7 @@ Component List
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |LEDpixel| image:: ../_static/imgs/LEDpixel.png
-    :width: 40%
+    :width: 30%
 
 Component knowledge
 ================================================================
@@ -195,9 +195,6 @@ Light up the eight LEDs in red, green and blue in turn.
     :language: python
     :lines: 34-45
 
-
-
-
 Project 32.2 RainbowLight
 ****************************************************************
 
@@ -224,7 +221,7 @@ Component List
 .. |Rotary-potentiometer| image:: ../_static/imgs/Rotary-potentiometer.png
     :width: 60%
 .. |ADC-module-2| image:: ../_static/imgs/ADC-module-2.png
-    :width: 60%
+    :width: 80%
 
 Circuit
 ================================================================

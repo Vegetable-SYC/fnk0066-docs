@@ -27,7 +27,7 @@ Component List
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-    :width: 15%
+    :width: 10%
 .. |DHT11| image:: ../_static/imgs/DHT11.png
     :width: 50%
 

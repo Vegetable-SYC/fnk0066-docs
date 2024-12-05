@@ -28,9 +28,9 @@ Component List
 .. |Infrared_sensor| image:: ../_static/imgs/Hall_Sensor.png
     :width: 30%
 .. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 40%
+    :width: 50%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
-    :width: 15%
+    :width: 10%
 
 Component knowledge
 ================================================================
@@ -140,14 +140,14 @@ Component List
 +--------------------------------------------------+--------------------------+------------------------+
 |Infrared obstacle avoidance sensor x1             | LED x1                   | Resistor 220Ω x1       |
 |                                                  |                          |                        |
-|  |Infrared_sensor|                               |  |red-led|               |  |res-220R|            |
+|  |Infrared_sensor|                               |  |red-led1|              |  |res-220R|            |
 +--------------------------------------------------+--------------------------+------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Infrared_sensor| image:: ../_static/imgs/Hall_Sensor.png
     :width: 30%
-.. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 30%
+.. |red-led1| image:: ../_static/imgs/red-led.png
+    :width: 40%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
     :width: 25%
 .. |Active-buzzer| image:: ../_static/imgs/Active-buzzer.png

@@ -50,6 +50,7 @@ The internal electronic circuit is shown below, and all 8 LED cathode pins of ea
     :align: center
 
 Display method of 4 Digit 7-segment display is similar to 1 Digit 7-segment display. The difference between them is that the 4-Digit displays each Digit is visible in turn, one by one and not together. We need to first send high level to the common end of the first Digit Display, and send low level to the remaining three common ends, and then send content to 8 LED cathode pins of the first Digit Display. At this time, the first 7-Segment Display will show visible content and the remaining three will be OFF.
+
 Similarly, the second, third and fourth 7-Segment Displays will show visible content in turn by scanning the display. Although the four number characters are displayed in turn separately, this process is so very fast that it is unperceivable to the naked eye. This is due to the principle of optical afterglow effect and the vision persistence effect in human sight. This is how we can see all 4 number characters at the same time. However, if each number character is displayed for a longer period, you will be able to see that the number characters are displayed separately. 
 
 Circuit
@@ -266,6 +267,7 @@ After displaying each digit sequentially, we repeat the entire sequence `times` 
     :lines: 80-100
 
 Call the 'display' function to cycle through the display on the digital tube, showing numbers from 0000 to 9999. 
+
 The time interval between two consecutive calls to 'display' is 100(times) * 4(bits) * 1ms = 400 milliseconds.
 
 .. literalinclude:: ../../../freenove_Kit/Pi4j/Sketches/Sketch_16_2_StopWatch/StopWatch.java

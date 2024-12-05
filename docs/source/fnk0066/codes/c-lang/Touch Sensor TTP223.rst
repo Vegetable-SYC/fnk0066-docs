@@ -22,13 +22,15 @@ Component List
 +---------------------------------------+---------+------------------------+------------------------+
 | TTP223 Touch Sensor x1                | LED x1                           | Resistor 220Ω x1       |     
 |                                       |                                  |                        |       
-|  |TTP223|                             | |red-led|                        | |res-220R|             |       
+|  |TTP223|                             | |red-led|                        | |res-220R1|            |       
 +---------------------------------------+----------------------------------+------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |TTP223| image:: ../_static/imgs/TTP223.png
-.. |res-220R| image:: ../_static/imgs/res-220R.png
+.. |res-220R1| image:: ../_static/imgs/res-220R.png
+    :width: 15%
 .. |red-led| image:: ../_static/imgs/red-led.png
+    :width: 50%
 
 Component knowledge
 ================================================================

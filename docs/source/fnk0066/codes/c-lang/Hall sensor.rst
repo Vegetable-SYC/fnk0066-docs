@@ -35,7 +35,7 @@ Component List
 .. |Hall_Sensor_1| image:: ../_static/imgs/Hall_Sensor_1.png
     :width: 40%
 .. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 20%
+    :width: 30%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
     :width: 15%
 .. |Speaker| image:: ../_static/imgs/Speaker.png
@@ -159,11 +159,11 @@ Component List
 +--------------------------------------------------+-------------+-----------------------------------+
 | Hall sensor x1                                   | LED x1      | NPN-transistor                    |
 |                                                  |             |                                   |
-|  |Hall_Sensor| :xx-large:`or` |Hall_Sensor_1|    |  |red-led|  |  |NPN-transistor|                 |                           
+|  |Hall_Sensor| :xx-large:`or` |Hall_Sensor_1|    |  |red-led1| |  |NPN-transistor|                 |                           
 +-----------------------+--------------------------+-------------+----------+------------------------+
 | Speaker x1            | Active buzzer x1         | Resistor 220Ω x1       | Resistor 1kΩ x1        |
 |                       |                          |                        |                        |
-|  |Speaker|            |  |Active-buzzer|         |  |res-220R|            |  |Resistor-1kΩ|        |                           
+|  |Speaker1|           |  |Active-buzzer|         |  |res-220R1|           |  |Resistor-1kΩ|        |                           
 +-----------------------+--------------------------+------------------------+------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
@@ -171,11 +171,11 @@ Component List
     :width: 30%
 .. |Hall_Sensor_1| image:: ../_static/imgs/Hall_Sensor_1.png
     :width: 40%
-.. |red-led| image:: ../_static/imgs/red-led.png
+.. |red-led1| image:: ../_static/imgs/red-led.png
     :width: 50%
-.. |res-220R| image:: ../_static/imgs/res-220R.png
+.. |res-220R1| image:: ../_static/imgs/res-220R.png
     :width: 25%
-.. |Speaker| image:: ../_static/imgs/Speaker.png
+.. |Speaker1| image:: ../_static/imgs/Speaker.png
     :width: 60%
 .. |Active-buzzer| image:: ../_static/imgs/Active-buzzer.png
     :width: 60%
@@ -200,6 +200,7 @@ Circuit
 |   |Hall_Sensor_Fr_2| :xx-large:`or` |Hall_Sensor_Fr_3|                                         |
 +------------------------------------------------------------------------------------------------+
 
+
 .. |Hall_Sensor_Sc_1| image:: ../_static/imgs/Hall_Sensor_Sc_1.png
 .. |Hall_Sensor_Fr_2| image:: ../_static/imgs/Hall_Sensor_Fr_2.png
     :width: 48%
@@ -208,7 +209,7 @@ Circuit
 
 .. note::
     
-    :red:`Please check the sequence of your Hall sensor and select the appropriate wiring to avoid permanent damage to your raspberry PI. `
+    :red:`Please check the sequence of your Hall sensor and select the appropriate wiring to avoid permanent damage to your raspberry PI.`
 
 Code
 ================================================================

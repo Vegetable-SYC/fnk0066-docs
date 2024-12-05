@@ -36,9 +36,9 @@ Component List
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-     :width: 20%
+     :width: 15%
 .. |joystick| image:: ../_static/imgs/joystick.png
-     :width: 40%
+     :width: 50%
 .. |ADC-module-1| image:: ../_static/imgs/ADC-module-1.png
 .. |ADC-module-2| image:: ../_static/imgs/ADC-module-2.png
 
@@ -145,5 +145,4 @@ In the code, configure Z_Pin as pull-up input mode. In the while loop, use analo
     :language: python
     :lines: 28-34
 
-For more information about the methods used by the Button class in the GPIO Zero library,please refer to:
-https://gpiozero.readthedocs.io/en/stable/api_input.html#button
+For more information about the methods used by the Button class in the GPIO Zero library,please refer to: https://gpiozero.readthedocs.io/en/stable/api_input.html#button

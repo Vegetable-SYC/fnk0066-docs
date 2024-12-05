@@ -29,7 +29,7 @@ Component List
 .. |microphone| image:: ../_static/imgs/microphone.png
     :width: 30%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
-    :width: 10%
+    :width: 15%
 .. |red-led| image:: ../_static/imgs/red-led.png
     :width: 50%
 

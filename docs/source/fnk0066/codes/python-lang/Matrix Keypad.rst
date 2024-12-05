@@ -15,12 +15,12 @@ Component List
 
 +-------------------------------------------------+-------------------------------------------------+
 |1. Raspberry Pi (with 40 GPIO) x1                |                                                 |     
-|                                                 | 4x4 Matrix Keypad x1                            |       
+|                                                 |                                                 |       
 |2. GPIO Extension Board & Ribbon Cable x1        |                                                 |       
-|                                                 |  |Keypad|                                       |                                                            
-|3. Breadboard x1                                 |                                                 |                                                                 
+|                                                 |                                                 |                                                            
+|3. Breadboard x1                                 |   4x4 Matrix Keypad x1                          |                                                                 
 +-------------------------------------------------+                                                 |
-| Jumper wire                                     |                                                 |
+| Jumper wire                                     |     |Keypad|                                    |
 |                                                 |                                                 |
 |  |jumper-wire|                                  |                                                 |
 +-------------------------------------------------+                                                 |
@@ -32,8 +32,9 @@ Component List
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
     :width: 50%
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-    :width: 15%
+    :width: 5%
 .. |Keypad| image:: ../_static/imgs/Keypad.png
+    :width: 200%
 
 Component knowledge
 ================================================================
@@ -108,6 +109,7 @@ The following is the program code:
     :language: python
 
 In this project code, we use a custom module "**Keypad.py**", which is located in the same directory with program file "**MatrixKeypad.py**". And this library file, which is transplanted from Arduino function library Keypad, provides a method to read the keyboard. By using this library, we can easily read the matrix keyboard.
+
 First, import module Keypad. Then define the information of the matrix keyboard used in this project: the number of rows and columns, code of each key and GPIO pin connected to each column and each row.
 
 .. literalinclude:: ../../../freenove_Kit/Code/Python_GPIOZero_Code/22.1.1_MatrixKeypad/MatrixKeypad.py

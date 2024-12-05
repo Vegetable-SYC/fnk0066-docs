@@ -13,7 +13,7 @@ Scratch language tutorial
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/scratch_preparation.rst
+   codes/preface/scratch_preparation.rst
 
 
 .. toctree::

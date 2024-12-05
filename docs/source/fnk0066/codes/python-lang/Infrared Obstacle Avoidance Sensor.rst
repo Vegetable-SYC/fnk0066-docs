@@ -29,9 +29,9 @@ Component List
 .. |Infrared_sensor| image:: ../_static/imgs/Hall_Sensor.png
     :width: 30%
 .. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 40%
+    :width: 50%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
-    :width: 15%
+    :width: 10%
 
 Component knowledge
 ================================================================

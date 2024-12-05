@@ -24,7 +24,9 @@ Component List
 |                                                 |     |jumper-wire|                               | 
 |3. Breadboard x1                                 |                                                 |
 +-------------------------------------------------+-------------------------------------------------+
-| Breadboard Power Module x1                      | 9V Battery (you provide) & 9V Battery Cable     |
+| Breadboard Power Module x1                      | 9V Battery (you provide) & 9V Battery           |
+|                                                 |                                                 |
+|                                                 | Cable                                           |
 |                                                 |                                                 |
 | |power-module|                                  |  |Battery_cable|                                |
 +-----------------------------+-------------------+--------------+----------------------------------+
@@ -62,18 +64,20 @@ Its working voltage range is 2.5-5V. Two speakers (loads) should be connected be
 .. image:: ../_static/imgs/PAM8403_pin.png
     :align: center
 
-3.5mm 3 conductor audio cable to DuPont cable
+ 3.5mm 3 conductor audio cable to DuPont cable
 ----------------------------------------------------------------
 
 3.5mm headphone plugs are divided into 3 conductor plugs and 4 conductor plugs. 3 conductor plug has three wires, namely: left channel, right channel and ground wire. 4 conductor plug has four wires, namely: left channel, right channel, ground wire and MIC microphone level. In the kit, a 3.5mm 3 conductor plug is used. As shown in the figure below, it is divided into left channel, right channel and ground wire from left to right.
 
 .. image:: ../_static/imgs/Audio_cable_pin.png
     :align: center
+    :width: 80%
 
 The audio cable to DuPont cable interface is shown in the figure below:
 
 .. image:: ../_static/imgs/Audio_cable_pin_1.png
     :align: center
+    :width: 80%
 
 Circuit
 ================================================================
@@ -90,6 +94,7 @@ Be careful when connecting this circuit. Do not use the RPi to power the speaker
 |   Next connect the peaker amplifier module PAM8403 cable.                                      |
 |                                                                                                |
 |   The specific connection steps are as follows:                                                |
+|                                                                                                |
 |                                                                                                |
 |   :xx-large:`step 1`                                                                           |
 |                                                                                                |
@@ -287,7 +292,9 @@ Component List
 |                                                 |     |jumper-wire|                               | 
 |3. Breadboard x1                                 |                                                 |
 +-------------------------------------------------+-------------------------------------------------+
-| Breadboard Power Module x1                      | 9V Battery (you provide) & 9V Battery Cable     |
+| Breadboard Power Module x1                      | 9V Battery (you provide) & 9V                   |
+|                                                 |                                                 |
+|                                                 | Battery Cable                                   |
 |                                                 |                                                 |
 | |power-module|                                  |  |Battery_cable|                                |
 +-----------------------------+-------------------+--------------+----------------------------------+
@@ -310,7 +317,7 @@ Component List
     :width: 60%
 .. |Audio_cable| image:: ../_static/imgs/Audio_cable.png
 .. |Infrared_sensor| image:: ../_static/imgs/Infrared_sensor.png
-    :width: 70%
+    :width: 15%
     
 Component knowledge
 ================================================================

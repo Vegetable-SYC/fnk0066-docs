@@ -9,6 +9,7 @@ Project PIR Infrared Motion Detector with LED Indicator
 ****************************************************************
 
 In this project, we will make a Motion Detector, with the human body infrared pyroelectric sensors.
+
 When someone is in close proximity to the Motion Detector, it will automatically light up and when there is no one close by, it will be out.
 
 This Infrared Motion Sensor can detect the infrared spectrum (heat signatures) emitted by living humans and animals.

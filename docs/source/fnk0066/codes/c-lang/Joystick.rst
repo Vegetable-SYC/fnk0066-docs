@@ -36,7 +36,7 @@ Component List
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-     :width: 20%
+     :width: 15%
 .. |joystick| image:: ../_static/imgs/joystick.png
      :width: 50%
 .. |ADC-module-1| image:: ../_static/imgs/ADC-module-1.png

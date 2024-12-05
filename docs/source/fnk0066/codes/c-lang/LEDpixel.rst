@@ -224,7 +224,7 @@ Component List
 .. |Rotary-potentiometer| image:: ../_static/imgs/Rotary-potentiometer.png
     :width: 60%
 .. |ADC-module-2| image:: ../_static/imgs/ADC-module-2.png
-    :width: 60%
+    :width: 80%
 
 Circuit
 ================================================================

@@ -2,7 +2,6 @@
 Chapter Ultrasonic Ranging
 ##############################################################################
 
-
 In this chapter, we learn a module which use ultrasonic to measure distance.
 
 Project Ultrasonic Ranging

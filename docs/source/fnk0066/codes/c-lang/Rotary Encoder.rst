@@ -21,12 +21,12 @@ Component List
 +--------------------------------------------------+-------------------------------------------------+
 |Rotary encoder x1                                                                                   |
 |                                                                                                    |
-|  |Rotary_encoder|                                                                                  |
+|  |Rotary_encoder1|                                                                                 |
 +----------------------------------------------------------------------------------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
-.. |Rotary_encoder| image:: ../_static/imgs/Rotary_encoder.png
-    :width: 40%
+.. |Rotary_encoder1| image:: ../_static/imgs/Rotary_encoder.png
+    :width: 20%
 
 Component knowledge
 ================================================================

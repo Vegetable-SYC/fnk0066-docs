@@ -71,7 +71,6 @@ Circuit
 .. |Keypad_Sc| image:: ../_static/imgs/Keypad_Sc.png
 .. |Keypad_Fr| image:: ../_static/imgs/Keypad_Fr.png
 
-
 Sketch
 ================================================================
 
@@ -79,6 +78,7 @@ Sketch 17.1.1 Calculator
 ----------------------------------------------------------------
 
 First observe the result after running the sketch, and then learn about the code in detail.
+
 1.	Use Processing to open the file Sketch_17_1_1_Calculator.
 
 .. code-block:: console    

@@ -30,22 +30,22 @@ Component List
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |red-led| image:: ../_static/imgs/red-led.png
-    :width: 40%
+    :width: 50%
 .. |HC_SR501| image:: ../_static/imgs/HC_SR501.png
     :width: 70%
 .. |res-220R| image:: ../_static/imgs/res-220R.png
-    :width: 20%
+    :width: 15%
 
 Component Knowledge
 ================================================================
 
 ==============  ======================  ==========================
 
-|HC_SR501|        |HC_SR501_bottom|       |HC_SR501_Schematic|
+|HC_SR5011|       |HC_SR501_bottom|       |HC_SR501_Schematic|
 
 ==============  ======================  ==========================
 
-.. |HC_SR501| image:: ../_static/imgs/HC_SR501.png
+.. |HC_SR5011| image:: ../_static/imgs/HC_SR501.png
 .. |HC_SR501_bottom| image:: ../_static/imgs/HC_SR501_bottom.png
 .. |HC_SR501_Schematic| image:: ../_static/imgs/HC_SR501_Schematic.png
 
@@ -65,10 +65,6 @@ We can regard this sensor as a simple inductive switch when in use.
 
 Circuit
 ================================================================
-
-.. table:: 
-    :width: 100%
-    :class: product-table
 
 +-------------------------------------------------------------------------------------------------+
 |   Schematic diagram                                                                             |

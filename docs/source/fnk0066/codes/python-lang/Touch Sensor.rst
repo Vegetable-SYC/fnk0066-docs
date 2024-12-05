@@ -22,13 +22,15 @@ Component List
 +---------------------------------------+---------+------------------------+------------------------+
 | TTP223 Touch Sensor x1                | LED x1                           | Resistor 220Ω x1       |     
 |                                       |                                  |                        |       
-|  |TTP223|                             | |red-led|                        | |res-220R|             |       
+|  |TTP223|                             | |red-led|                        | |res-220R1|            |       
 +---------------------------------------+----------------------------------+------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |TTP223| image:: ../_static/imgs/TTP223.png
-.. |res-220R| image:: ../_static/imgs/res-220R.png
+.. |res-220R1| image:: ../_static/imgs/res-220R.png
+    :width: 15%
 .. |red-led| image:: ../_static/imgs/red-led.png
+    :width: 50%
 
 Component knowledge
 ================================================================
@@ -98,7 +100,7 @@ Python Code 27.1.1 TouchSensor
 
 .. code-block:: console
 
-    $ ython TouchSensor.py
+    $ python TouchSensor.py
 
 In this code, we use the touch sensor to adjust the brightness of the LED. Every time you touch the sensor with your hand, the brightness of the LED changes.
 
@@ -128,7 +130,7 @@ Set the LED light to emit different brightness according to the value of grade.
     :language: python
     :lines: 30-41
 
-sensor.py
+**sensor.py**
 
 Import the SmoothedInputDevice class from the GPIO Zero library, create the TouchSensor class, and initialize the parametersImport the SmoothedInputDevice class from the GPIO Zero library, create the TouchSensor class, and initialize the parameters
 

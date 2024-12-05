@@ -104,6 +104,7 @@ Sketch 14.1.1 Joystick
 ----------------------------------------------------------------
 
 First observe the result after running the sketch, and then learn about the code in detail.
+
 1.	Use Processing to open the file Sketch_14_1_1_Joystick.
 
 .. code-block:: console    

@@ -2,7 +2,6 @@
 Chapter Attitude Sensor MPU6050
 ################################################################
 
-
 In this chapter, we will learn about a MPU6050 Attitude sensor, which integrates an Accelerometer and Gyroscope.
 
 Project Read a MPU6050 Sensor Module
