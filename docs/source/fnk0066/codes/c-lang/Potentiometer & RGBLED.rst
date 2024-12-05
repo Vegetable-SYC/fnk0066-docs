@@ -99,6 +99,7 @@ C Code 9.1.1 Colorful Softlight
 ----------------------------------------------------------------
 
 If you did not configure I2C, please refer to :doc:`Chapter 7 ADC <ADC>`. If you did, please continue.
+
 First, observe the project result, and then learn about the code in detail.
 
 .. hint:: 

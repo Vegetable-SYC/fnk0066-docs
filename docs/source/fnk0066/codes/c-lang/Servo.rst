@@ -125,6 +125,7 @@ First, observe the project result, and then learn about the code in detail.
     $ sudo ./Sweep
 
 After the program is executed, the Servo will rotate from 0 degrees to 180 degrees and then reverse the direction to make it rotate from 180 degrees to 0 degrees and repeat these actions in an endless loop.
+
 The following is the program code:
 
 .. literalinclude:: ../../../freenove_Kit/Code/C_Code/15.1.1_Sweep/Sweep.c

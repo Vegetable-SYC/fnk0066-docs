@@ -208,6 +208,7 @@ The sector trailer block in each sector is the control block, including a 6-byte
 The default password of a brand new card is generally 0A1A2A3A4A5 for password A and B0B1B2B3B4B5 for password B, or both the password A and password B are 6 FF. Access control is used to set the access conditions for each block (including the control block itself) in a sector.
 
 For more details about how to set data blocks and control blocks, please refer to Datasheet.
+
 By default, after verifying password A or password B, we can do reading or writing operation to data blocks. And after verifying password A, we can do reading or writing operation to control blocks. But password A can never be read, so if you choose to verify password A but forget the password A, the block will never be able to read again.
 
 .. hint:: 

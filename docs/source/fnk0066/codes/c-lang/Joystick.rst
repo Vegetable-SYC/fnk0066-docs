@@ -114,6 +114,7 @@ C Code 12.1.1 Joystick
 ----------------------------------------------------------------
 
 If you did not configure I2C, please refer to Chapter 7. If you did, please continue.
+
 First, observe the project result, and then learn about the code in detail.
 
 .. hint:: 

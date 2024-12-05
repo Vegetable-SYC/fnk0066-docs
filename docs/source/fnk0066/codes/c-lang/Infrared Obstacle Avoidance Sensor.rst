@@ -2,7 +2,6 @@
 Chapter Infrared Obstacle Avoidance Sensor
 ##############################################################################
 
-
 In this chapter, we will learn how to use infrared obstacle avoidance sensor.
 
 Project Infrared obstacle avoidance sensor and LED

@@ -178,6 +178,7 @@ First, observe the project result, and then learn about the code in detail.
     $ sudo ./Ledpixel
 
 After the program runs, the LEDpixel will emit red, blue and green colors in turn like flowing water. If your Freenove 8 RGB LED Module doesn't work, you can try :ref:`additional supplements` to solve.
+
 The following is the program code:
 
 .. literalinclude:: ../../../freenove_Kit/Code/C_Code/32.1.1_Ledpixel/Ledpixel.c

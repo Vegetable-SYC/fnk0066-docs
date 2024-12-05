@@ -40,6 +40,7 @@ The Temperature & Humidity Sensor DHT11 is a compound temperature & humidity sen
     :align: center
 
 After being powered up, it will initialize in 1 second. Its operating voltage is within the range of 3.3V-5.5V.
+
 The SDA pin is a data pin, which is used to communicate with other devices. 
 
 The NC pin (Not Connected Pin) are a type of pin found on various integrated circuit packages. Those pins have no functional purpose to the outside circuit (but may have an unknown functionality during manufacture and test). Those pins should not be connected to any of the circuit connections.
