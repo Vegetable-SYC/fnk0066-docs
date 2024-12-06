@@ -13,11 +13,6 @@ In this project, 3 potentiometers are used to control the RGB LED and in princip
 Component List
 ================================================================
 
-.. table:: 
-    :width: 50%
-    :widths: 20 50
-    :align: center
-
 +-------------------------------------------------+-------------------------------+
 |1. Raspberry Pi (with 40 GPIO) x1                |    220Ω x3                    |     
 |                                                 |                               |       
